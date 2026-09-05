@@ -19,10 +19,9 @@ TierArc is building a transparent, auto-rebalancing crypto basket protocol desig
 - [X](https://x.com/TierArcOfficial)
 - [Instagram](https://www.instagram.com/TierArcOfficial)
 - [TikTok](https://www.tiktok.com/@tierarc)
-- [YouTube](https://www.youtube.com/@TierArc)
 - [Telegram](https://t.me/TierArc)
 - [Discord](https://discord.gg/Ug6PhsQdQs)
-- [Reddit](https://www.reddit.com/user/TierArcOfficial)
+- [Reddit](https://www.reddit.com/r/TierArc/)
 
 ## Build in public
 
