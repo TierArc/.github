@@ -22,7 +22,6 @@ Explore TierArc's educational guide to [crypto basket protocol fundamentals](htt
 - [Website](https://tierarc.com)
 - [Learn](https://tierarc.com/learn)
 - [Whitepaper](https://tierarc.com/whitepaper)
-- [X](https://x.com/TierArcOfficial)
 - [Instagram](https://www.instagram.com/TierArcOfficial)
 - [TikTok](https://www.tiktok.com/@tierarc)
 - [Telegram](https://t.me/TierArc)
