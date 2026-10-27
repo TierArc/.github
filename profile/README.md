@@ -11,7 +11,11 @@ TierArc, LLC is a software development and publishing company with blockchain ex
 - [TierArc StockBot](https://tierarc.com/stockbot): a rules-based stock trading workspace with paper practice and configurable controls.
 - [TierArc CryptoBot](https://tierarc.com/cryptobot): a desktop workspace for crypto workflows, paper trading, and blockchain monitoring.
 
-Both flagship products are currently in testing; commercial releases are coming soon. Explore the [software storefront](https://tierarc.com/software) and [software guides](https://tierarc.com/learn).
+StockBot is available on [Microsoft Store](https://apps.microsoft.com/detail/9MXVVWDZGD98) with a **free 1-month Paper trial** for eligible customers when the offer is available. Practice with simulated funds; Live trading requires verified paid access.
+
+A payment method is required. After the free month, the subscription renews automatically at the Microsoft checkout price unless canceled before the trial ends. The US base renewal price is $18.99/month; regional pricing and taxes may differ. Microsoft determines eligibility and the exact expiry date. [Trial details and renewal terms](https://tierarc.com/stockbot#stockbot-trial).
+
+CryptoBot remains in development and coming soon. Website crypto purchases remain separate and unavailable. Explore the [software storefront](https://tierarc.com/software) and [software guides](https://tierarc.com/learn).
 
 ## Blockchain development
 
