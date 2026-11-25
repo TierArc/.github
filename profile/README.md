@@ -1,7 +1,9 @@
 # TierArc
 
 
-**Software development. Blockchain expertise.**
+**Software development and blockchain technology.**
+
+**TIERARC fair-launch target · December 15, 2026 at 4 p.m. Arizona time (23:00 UTC).** [Launch information](https://tierarc.com/token-basket)
 
 
 TierArc, LLC is a software development and publishing company with blockchain expertise. We build Windows applications and develop blockchain technology.
@@ -17,22 +19,16 @@ A payment method is required. After the free month, the subscription renews auto
 
 CryptoBot remains in development and coming soon. Website crypto purchases remain separate and unavailable. Explore the [software storefront](https://tierarc.com/software) and [software guides](https://tierarc.com/learn).
 
-## Blockchain development
+## TierArc Token Basket
 
-Our blockchain work includes the [TierArc Token Basket](https://tierarc.com/token-basket), a distinct 20-asset project with transparent rules and on-chain safeguards. Software licenses and token-basket participation are separate.
+TIERARC gives holders a proportional share of a vault designed for ten assets on BNB Smart Chain. Mainnet contracts have been staged. Public purchases await launch activation. There is no presale or ICO, and the target remains subject to final readiness checks.
 
+- **Fair-launch target:** December 15, 2026 at 4 p.m. Arizona time (23:00 UTC)
+- **Network:** BNB Smart Chain (chain 56)
+- **TIERARC contract:** [`0x23a0f99B8CDe370Ec256123a2EBF03f08BAF8D25`](https://bscscan.com/token/0x23a0f99B8CDe370Ec256123a2EBF03f08BAF8D25)
+- [How the basket works and how to verify it](https://tierarc.com/token-basket) · [Contract addresses](https://tierarc.com/contracts) · [Verified directory profiles](https://tierarc.com/listings)
 
-## Token project status
-
-
-- **Phase:** Public testing
-- **Target launch:** January 12, 2027
-- **Network focus:** BNB Chain
-- **Official website:** [TierArc.com](https://tierarc.com)
-
-
-> **Testing notice:** No live token sale is active. Values displayed in the current experience are simulated unless explicitly labeled otherwise.
-
+Software licenses and token-basket participation are separate.
 
 ## Learn how crypto baskets work
 
