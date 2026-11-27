@@ -19,7 +19,7 @@ A payment method is required. After the free month, the subscription renews auto
 
 CryptoBot remains in development and coming soon. Website crypto purchases remain separate and unavailable. Explore the [software storefront](https://tierarc.com/software) and [software guides](https://tierarc.com/learn).
 
-## TierArc Token Basket
+## TierArc Crypto Basket
 
 TIERARC gives holders a proportional share of a vault designed for ten assets on BNB Smart Chain. Mainnet contracts have been staged. Public purchases await launch activation. There is no presale or ICO, and the target remains subject to final readiness checks.
 
@@ -28,7 +28,7 @@ TIERARC gives holders a proportional share of a vault designed for ten assets on
 - **TIERARC contract:** [`0x23a0f99B8CDe370Ec256123a2EBF03f08BAF8D25`](https://bscscan.com/token/0x23a0f99B8CDe370Ec256123a2EBF03f08BAF8D25)
 - [How the basket works and how to verify it](https://tierarc.com/token-basket) · [Contract addresses](https://tierarc.com/contracts) · [Verified directory profiles](https://tierarc.com/listings)
 
-Software licenses and token-basket participation are separate.
+Software licenses and participation in the TierArc Crypto Basket are separate.
 
 ## Learn how crypto baskets work
 
@@ -40,8 +40,12 @@ Explore TierArc's educational guide to [crypto basket protocol fundamentals](htt
 
 
 - [Website](https://tierarc.com)
+- [Launch guide](https://tierarc.com/token-basket)
 - [Learn](https://tierarc.com/learn)
 - [Whitepaper](https://tierarc.com/whitepaper)
+- [X](https://x.com/TierArcLLC)
+- [LinkedIn](https://www.linkedin.com/company/tierarc/)
+- [Facebook](https://www.facebook.com/TierArcOfficial)
 - [Instagram](https://www.instagram.com/TierArcOfficial)
 - [TikTok](https://www.tiktok.com/@tierarc)
 - [Telegram](https://t.me/TierArc)
